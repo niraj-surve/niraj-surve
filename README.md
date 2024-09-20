@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://niraj-surve.github.io/portfolio/](https://niraj-surve.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://cv.nirajsurve.tech](https://cv.nirajsurve.tech)
 
 - 📫 How to reach me **niraj.surve07@gmail.com**
 
